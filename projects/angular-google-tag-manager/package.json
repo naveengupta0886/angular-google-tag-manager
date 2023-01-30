@@ -8,6 +8,7 @@
   },
   "description": "A service library for integrate google tag manager in your angular project",
   "author": "naveengupta0886@gmail.com",
+  "private": false,
   "contributors": [
     "Marco Zuccaroli <marcozuccaroli@gmail.com>",
     "Nils Thomann <nils.thomann@quickline.ch>",
